@@ -1,0 +1,3 @@
+﻿  ConsoleApplication8.cpp
+c:\users\ola\source\repos\consoleapplication8\consoleapplication8.cpp(97): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+LINK : fatal error LNK1168: не удается открыть C:\Users\Ola\source\repos\ConsoleApplication8\Debug\ConsoleApplication8.exe для записи
